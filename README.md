@@ -8,11 +8,11 @@
 **Team Name:** BUSA8001_That's not my name
 
 ## Team Members
-| Role | Name | Student ID | Task |
-|------|------|------------|------|
-| Team Leader & Member 3 | **Quoc Phong (Leo) Nguyen** | 48203971 | Task 3 — Model Building & Competition |
-| Member 1 | Ha My Dang | 48376701 | Task 1 — Problem Description & EDA |
-| Member 2 | Luong Phuong Anh Pham | 48351156 | Task 2 — Data Cleaning & Feature Engineering |
+| Role | Name | Task |
+|------|------|------|
+| Team Leader & Member 3 | **Quoc Phong (Leo) Nguyen** | Task 3 — Model Building & Competition |
+| Member 1 | Ha My Dang | Task 1 — Problem Description & EDA |
+| Member 2 | Luong Phuong Anh Pham | Task 2 — Data Cleaning & Feature Engineering |
 
 ## Introduction
 The used car market suffers from information asymmetry — buyers and sellers often lack reliable pricing benchmarks. This project builds a machine learning pipeline to accurately forecast used car prices, with real-world applications for consumers, dealerships, fleet managers, and digital auto platforms.
